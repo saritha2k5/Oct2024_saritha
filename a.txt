@@ -25,10 +25,26 @@ Srikar Kotha
 =======
 <<<<<<< HEAD
 hey this is Imam Hussain
-We are ascenders
+(If we want to make some changes each time we need to pull the repository after that we can follow the below steps)
+following are the steps:
+1. open git bash
+2.git pull
+3.open file and make some changes if required and save it (ctrl+s)
+4.git add . 
+5.git commit -m "this is my first commit"
+6.git push -u origin master --force
+Now you can see the changes in the repository
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Charan 
+=======
+<<<<<<< HEAD
+
+=======
+Charan
+>>>>>>> 0c3c7f4babe9f221e157281d087d3c922901ecc1
+>>>>>>> 0eb742b3ac4be76a1417b22a35431a5d40587c9f
 
 Santhosh Krishnan 
 
@@ -43,4 +59,11 @@ Harrish Vijay G
 Karthik
 
 >>>>>>> efcc3366ff5ce0c4ff39b8cef2c76487426cd5bc
+<<<<<<< HEAD
 >>>>>>> bf564555a9eeb7a8d75e9e27fcd80cb8ec2a620f
+=======
+
+
+
+new commit made by Santhosh 
+>>>>>>> 0eb742b3ac4be76a1417b22a35431a5d40587c9f
