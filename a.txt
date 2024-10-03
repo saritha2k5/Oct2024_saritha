@@ -20,6 +20,7 @@ David
 hey this is Imam Hussain
 We are ascenders
 
+<<<<<<< HEAD
 Charan
 
 Santhosh Krishnan 
@@ -30,3 +31,7 @@ swetha
 
 
 Harrish Vijay 
+=======
+Karthik
+
+>>>>>>> efcc3366ff5ce0c4ff39b8cef2c76487426cd5bc
