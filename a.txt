@@ -17,6 +17,13 @@ Katapally Sruthi
 David
 
 <<<<<<< HEAD
+Imam Hussain
+
+SrikarKotha
+
+
+=======
+<<<<<<< HEAD
 hey this is Imam Hussain
 (If we want to make some changes each time we need to pull the repository after that we can follow the below steps)
 following are the steps:
@@ -44,7 +51,11 @@ Harrish Vijay G
 Karthik
 
 >>>>>>> efcc3366ff5ce0c4ff39b8cef2c76487426cd5bc
+<<<<<<< HEAD
+>>>>>>> bf564555a9eeb7a8d75e9e27fcd80cb8ec2a620f
+=======
 
 
 
 new commit made by Santhosh 
+>>>>>>> 3df9b9248e5f537c42ede50991ce2267cca95bf6
