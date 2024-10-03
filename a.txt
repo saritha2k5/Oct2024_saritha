@@ -1,2 +1,6 @@
 welcome to git
+<<<<<<< HEAD
 Pratham
+=======
+Katapally Sruthi
+>>>>>>> 7305ebf1b93bb6d08ad0dafe03eda826aec75207
